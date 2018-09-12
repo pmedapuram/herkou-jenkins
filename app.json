@@ -1,6 +1,7 @@
 {
   "name": "herkou-jenkins",
   "scripts": {
+     "test-setup": "gem install rubocop",
   },
   "env": {
   },
