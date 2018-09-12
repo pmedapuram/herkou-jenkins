@@ -1,7 +1,7 @@
 {
   "name": "herkou-jenkins",
   "scripts": {
-     "test-setup": "java -version"
+     "version": "java -version"
   },
   "env": {
   },
